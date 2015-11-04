@@ -130,7 +130,8 @@ height: 250px;
 
 .btn.btn-default.btn-sm{background-color:#ff9700;}
 .btn.btn-default.btn-sm:hover{background-color:#545354;color:#fff;}
-.linked{background: url(../images/linkedin.png) no-repeat;width:99px;height:37px;display:block;float:left;margin-right:20px;border:1px solid;}
+.linked{background: url(../images/linkedin.png) no-repeat;width:99px;height:37px;display:block;float:left;margin-right:20px;border:1px solid #ccc;}
+.git{background: url(../images/git.png) no-repeat;width:38px;height:38px;display:block;float:left;margin-right:20px;border:none}
 
 /*footer*/
 footer {
